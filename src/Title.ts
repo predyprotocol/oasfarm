@@ -1,5 +1,4 @@
-import { ethers } from "ethers"
-import { Actor, Color, Vector, Text, Sprite } from "excalibur"
+import { Actor, Vector } from "excalibur"
 import { Resources } from "./resources"
 
 export class Title extends Actor {
